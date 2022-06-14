@@ -1,8 +1,8 @@
 {
-  "title": "R-Proxy RAT",
-  "url": "https://cybersec-project-1.netlify.app/",
+  "title": "WireShark Analysis",
+  "url": "https://carnage-blog.netlify.app/",
   "domain": "update-me.com",
-  "description": "Blog describing an attack scenario for cybersecurity study.",
+  "description": "Blog describing an attack analysis for cybersecurity study.",
   "genre": "Blog",
   "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
   "sendWebVitals": false,
