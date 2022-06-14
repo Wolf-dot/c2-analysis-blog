@@ -21,7 +21,7 @@ templateClass: tmpl-post
 {% for post in collections.posts %}
 
     <h1>{{data.title}}</h1>
-    {{ content | safe }}
+    {{data.content | safe}}
 
 {% endfor %}
 
