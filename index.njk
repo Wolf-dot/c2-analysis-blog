@@ -22,10 +22,3 @@ Choose the full scroll through for a smooth experience, or if you'd like to foll
   {% set postslist = collections.posts %}
   {% include "postslist.njk" %}
 </div>
-
-{% for post in collections.posts %}
-
-    <h1>{{post.data.title}}</h1>
-    {{post.data}}
-
-{% endfor %}
