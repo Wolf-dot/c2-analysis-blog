@@ -1,7 +1,7 @@
 ---
 title: Full walkthrough
-description: Draft
 layout: layouts/infinite.njk
+eleventyExcludeFromCollections: true
 tags: full
 ---
 
