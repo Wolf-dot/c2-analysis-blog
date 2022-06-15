@@ -26,6 +26,6 @@ Choose the full scroll through for a smooth experience, or if you'd like to foll
 {% for post in collections.posts %}
 
     <h1>{{post.data.title}}</h1>
-    {{post.data.content | log}}
+    {{post.data}}
 
 {% endfor %}
