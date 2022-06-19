@@ -1,7 +1,7 @@
 ---
 title: Twentieth task
 description: Draft
-layout: layoSuts/post.njk
+layout: layouts/post.njk
 order: 21
 tags: posts
 ---

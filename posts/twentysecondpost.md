@@ -1,7 +1,7 @@
 ---
 title: Finish!
 description: Draft
-layout: layoSuts/post.njk
+layout: layouts/post.njk
 order: 22
 tags: posts
 ---
